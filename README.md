@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hydra7062
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning web dev
+- 🌱 I’m currently learning data sciencetist
 
 - 📫 How to reach me ...mushtaqrangrez0786@gmail.com
 
