@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @hydra7062
-- 👀 I’m interested in ...
+- 👋 Hi, I’Mushtak Rangrej
+- 👀 I’m interested in Learning Data Science ...
 - 🌱 I’m currently learning data scienctist
 
 - 📫 How to reach me ...mushtaqrangrez0786@gmail.com
